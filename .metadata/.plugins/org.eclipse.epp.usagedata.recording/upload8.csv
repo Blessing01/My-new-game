@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1445282894703
+java.runtime.version,sysinfo,,,"1.8.0_51-b16",1445282894703
+java.specification.name,sysinfo,,,"Java Platform API Specification",1445282894703
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1445282894703
+java.specification.version,sysinfo,,,"1.8",1445282894703
+java.vendor,sysinfo,,,"Oracle Corporation",1445282894703
+java.version,sysinfo,,,"1.8.0_51",1445282894703
+java.vm.info,sysinfo,,,"mixed mode",1445282894703
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1445282894703
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1445282894703
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1445282894703
+java.vm.specification.version,sysinfo,,,"1.8",1445282894703
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1445282894703
+java.vm.version,sysinfo,,,"25.51-b03",1445282894703
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283441164
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283442695
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283447318
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283457173
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20090507,"org.eclipse.core.filesystem",1445283472897
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283478565
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1445283478581
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1445283486112
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1445283486172
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283486547
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1445283503621
